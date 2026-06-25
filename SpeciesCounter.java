@@ -21,8 +21,6 @@ public class SpeciesCounter {
     private String[] speciesData;
     private int[] speciesCount;
 
-   
-
     // Default constructor
     public SpeciesCounter() {
         this.speciesData = new String[0]; // Empty array initially
